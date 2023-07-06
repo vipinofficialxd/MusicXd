@@ -51,10 +51,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/HONEY_SINGH_121",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
             ),
            InlineKeyboardButton(
-                text="💖ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/aarohi_ki_duniya",
+                text="💖ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
             ),
         ],
         [
@@ -107,7 +107,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/HONEY_SINGH_121",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/aarohi_ki_duniya",
+                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
             ),
         ],
         [
@@ -150,10 +150,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/HONEY_SINGH_121",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/aarohi_ki_duniya",
+                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
             ),
         ],
         [
@@ -184,10 +184,10 @@ def telegram_markup(_, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/HONEY_SINGH_121",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/aarohi_ki_duniya",
+                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/Radhax2support",
             ),
         ],
         [
@@ -341,10 +341,10 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/HONEY_SINGH_121",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/aarohi_ki_duniya",
+                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
             ),
         ],
         [
