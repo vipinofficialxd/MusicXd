@@ -21,12 +21,12 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "2107529793").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/HONEY_SINGH_121")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/GhostRadha")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/LOVE_FEELINGS_WILL")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/LOVE_FEELINGS_WILL")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RadhaX2Support")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/RadhaX2Update")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
  
@@ -76,28 +76,28 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/0c373d33859cd378dcafe.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/8371be32cd092285e204f.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/a70c01f7564e558b7af0d.png",
+    "https://telegra.ph/file/b075302a50a95b914603e.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/b2e980c5c6511ce799629.jpg"
 
 GLOBAL_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
 
-STATS_IMG_URL = "https://te.legra.ph/file/4a7c28726502e24ea0fe0.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/6639800cb665353a00647.jpg"
 
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/810f874873e1565cf5732.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/1f65136ccaddeed00c67b.jpg"
 
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/16d7dd76f4ce8b8b01fdf.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/1f65136ccaddeed00c67b.jpg"
 
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/53f1a295e172d39eaa39d.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/e04865ba0cb89cbda65cc.jpg"
 
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg"
 
@@ -135,4 +135,4 @@ if PING_IMG_URL:
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://te.legra.ph/file/0c373d33859cd378dcafe.jpg"
+            START_IMG_URL = "https://telegra.ph/file/8371be32cd092285e204f.jpg"
