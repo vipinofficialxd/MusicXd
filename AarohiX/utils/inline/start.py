@@ -25,9 +25,9 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/LOVE_FEELINGS_WILL_121"),
+                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/RadhaX2Support"),
             InlineKeyboardButton(
-                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/aarohi_ki_duniya"
+                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/GhostRadha"
             ),
         ],
         [
@@ -56,9 +56,9 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/LOVE_FEELINGS_WILL_121"),
+                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/RadhaX2Support"),
             InlineKeyboardButton(
-                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/aarohi_ki_duniya"
+                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/GhostRadha"
             ),
         ],
         [
@@ -69,7 +69,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                    text="🥺 ᴏᴡɴᴇʀ 🥺", url=config.UPSTREAM_REPO
+                    text="🥺 ᴏᴡɴᴇʀ 🥺", url=config.https://t.me/GhostRadha
                 )
         ],
      ]
