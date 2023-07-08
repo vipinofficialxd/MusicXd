@@ -13,20 +13,20 @@ API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001898745590"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001954221487"))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "DABANG MUSIC BOT")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "2107529793").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5999224089").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/GhostRadha")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/onenonlybotz/MusicXd")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RadhaX2Support")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/RadhaX2Update")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/WhoIsAaditya")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DabangTheBrand")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
  
@@ -76,11 +76,11 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/24a7a64e948832c5cddf1.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/f578d97a99a8cc61708ad.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/b075302a50a95b914603e.jpg",
+    "https://te.legra.ph/file/f578d97a99a8cc61708ad.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/196eb5236b1c91f294085.jpg"
