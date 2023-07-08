@@ -25,16 +25,16 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/RadhaX2Support"),
+                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/sexyaaditya"),
             InlineKeyboardButton(
-                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/GhostRadha"
+                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ[❣️] 🥰", url=f"https://t.me/sexyvipin"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ]💝", user_id=OWNER),
+                text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[xᴅ]💝", user_id=OWNER),
             InlineKeyboardButton(
-                text="🥰sᴜᴩᴩᴏʀᴛ[ᴀɪᴍ]🥰", url=config.SUPPORT_GROUP
+                text="🥰sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ]🥰", url=config.SUPPORT_GROUP
             ),
         ],
      ]
@@ -45,7 +45,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🥺 ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ [💞ᴅɪʟ💞]🥺",
+                text="🥺 ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ [💞ᴅᴀʙᴀɴɢ💞]🥺",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             ),
         ],
@@ -56,20 +56,20 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/RadhaX2Support"),
+                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/sexyaaditya"),
             InlineKeyboardButton(
-                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/GhostRadha"
+                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ[❣️] 🥰", url=f"https://t.me/sexyvipin"
             ),
         ],
         [
-            InlineKeyboardButton(text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ]💝", user_id=OWNER),
+            InlineKeyboardButton(text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[xᴅ]💝", user_id=OWNER),
             InlineKeyboardButton(
-                text="🥰sᴜᴩᴩᴏʀᴛ[ᴀɪᴍ]🥰", url=config.SUPPORT_GROUP
+                text="🥰sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ]🥰", url=config.SUPPORT_GROUP
             ),
         ],
         [
             InlineKeyboardButton(
-                    text="🥰 ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/GhostRadha"
+                    text="🥰 ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/sexyaaditya"
                 )
         ],
      ]
