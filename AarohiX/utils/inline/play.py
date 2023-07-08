@@ -51,10 +51,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
             ),
            InlineKeyboardButton(
-                text="💖ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
+                text="💖ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/sexyvipin",
             ),
         ],
         [
@@ -104,15 +104,15 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/sexyvipin",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️] 🥀", url=config.SUPPORT_GROUP
+                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ] 🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
                 text="✯🥺 ᴄʟᴏsᴇ 🥺✯", callback_data="close"
@@ -145,15 +145,15 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]🥀", url=config.SUPPORT_GROUP
+                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ]🥀", url=config.SUPPORT_GROUP
             ),
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/sexyvipin",
             ),
         ],
         [
@@ -184,15 +184,15 @@ def telegram_markup(_, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/Radhax2support",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/sexyvipin",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]🥀", url=config.SUPPORT_GROUP
+                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ]🥀", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
                 text="✯🥺 ᴄʟᴏsᴇ 🥺✯", callback_data="close"
@@ -336,15 +336,15 @@ def queue_markup(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]🥀", url=config.SUPPORT_GROUP
+                text="🥀 sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ❣️]🥀", url=config.SUPPORT_GROUP
             )
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/GhostRadha",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
             ),
            InlineKeyboardButton(
-                text="💝ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️]💝", url=f"https://t.me/RadhaX2Support",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/sexyvipin",
             ),
         ],
         [
