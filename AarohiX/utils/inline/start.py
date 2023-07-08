@@ -64,12 +64,12 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[xᴅ]💝", user_id=OWNER),
             InlineKeyboardButton(
-                text="🥰sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ]🥰", url=config.SUPPORT_GROUP
+                text="🥰sᴜᴩᴩᴏʀᴛ[ᴅᴀʙᴀɴɢ❣️]🥰", url=config.SUPPORT_GROUP
             ),
         ],
         [
             InlineKeyboardButton(
-                    text="🥰 ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/sexyaaditya"
+                    text="🥰 ᴀʙᴏᴜᴛ 🥰", url=f"https://t.me/WhoIsAaditya"
                 )
         ],
      ]
