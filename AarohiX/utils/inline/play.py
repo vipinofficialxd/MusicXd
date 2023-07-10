@@ -51,7 +51,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/ll_tanu_ll",
             ),
            InlineKeyboardButton(
                 text="💖ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/Baapxvipin",
@@ -104,7 +104,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/ll_tanu_ll",
             ),
            InlineKeyboardButton(
                 text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/Baapxvipin",
@@ -150,7 +150,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/ll_tanu_ll",
             ),
            InlineKeyboardButton(
                 text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/Baapxvipin",
@@ -184,7 +184,7 @@ def telegram_markup(_, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/ll_tanu_ll",
             ),
            InlineKeyboardButton(
                 text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/Baapxvipin",
@@ -341,7 +341,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/ll_tanu_ll",
             ),
            InlineKeyboardButton(
                 text="💝ᴄᴏ ᴏᴡɴᴇʀ[❣️]💝", url=f"https://t.me/Baapxvipin",
